@@ -1,0 +1,8 @@
+# add here node_modules, dist, and .idea this is a list of folders for git to not trace
+# wait now we don't have a git folder remember to get a git folder, we do git init
+#now, do git status (which gives you the list of things not added yet to git (
+# you see, when i remove the dist folder from this list, it shows for git to upload to github or to commit
+dist
+node_modules
+.idea
+
